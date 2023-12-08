@@ -1,6 +1,7 @@
-#include <io> 
-int main()
+#include "stdafx.h"
+using namespace std;
+int _tmain(int argc, _TCHAR* argv[])
 {
-	std::cout << "Hello,world!" << std::endl;
-	return not0;
+	cout << "Welcome to C++!" << endl;
+	return 0;
 }
